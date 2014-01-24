@@ -1,3 +1,6 @@
+---
+title: py vs c
+---
 ** Modulus
 
 [[http://stackoverflow.com/questions/1907565/c-python-different-behaviour-of-the-modulo-operation][C/Python different behaviour of the modulo operation]]

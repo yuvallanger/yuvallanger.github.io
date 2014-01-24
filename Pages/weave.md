@@ -1,3 +1,6 @@
+---
+title: _
+---
 # Accessing an array and its metadata through C/C++ in *scipy.weave.inline()*
 
 * Accessing an array *foo* with *foo.ndim == 3*:

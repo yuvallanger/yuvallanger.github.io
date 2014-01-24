@@ -1,3 +1,6 @@
+---
+title: vim trivia
+---
 How many lines / Count marked lines
 
 "In visual mode, press g C-g."
