@@ -1,5 +1,6 @@
 ---
 title: vim trivia
+layout: default
 ---
 How many lines / Count marked lines
 

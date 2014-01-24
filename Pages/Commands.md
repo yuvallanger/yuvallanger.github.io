@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: more
 ---
 Commands I infrequently need.
