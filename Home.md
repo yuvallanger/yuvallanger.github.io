@@ -1,4 +1,4 @@
-I forget, so I write.
+# I forget, so I write. #
 
 * [scipy.weave](wiki/Weave)
 * [command line](wiki/Commands)
