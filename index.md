@@ -1,5 +1,6 @@
 ---
 title: Commonly Forgotten
+layout: default
 ---
 commonly-forgotten
 ==================
