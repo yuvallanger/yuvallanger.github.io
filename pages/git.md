@@ -17,7 +17,7 @@ git add -p [filenane]
 Find differences
 ----------------
 
-[Stack overflow][diffs answer] says:
+[Stack overflow][diff answer] says:
 ![Diagram explaining the diffs between HEAD, Index and Working tree][diff diagram]
 
 ### HEAD -> Index (staging area):
