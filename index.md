@@ -1,8 +1,19 @@
 ---
 title: Rubber Duck Developer
 ---
-rubberduckdev.github.io
+{{ page.title }}
 =======================
+
+AKA Egbert9e9 on IRC
+
+Links
+-----
+
+* [dotfiles](https://github.com/rubberduckdev/dotfiles)
+* [commonly-forgotten](https://rubberduckdev.github.com/commonly-forgotten)
+
+Sources
+-------
 A [duck] released into the [Public Domain] by [Gerald_G] of [Open Clipart]
 
 [Public Domain]: https://openclipart.org/share
