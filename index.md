@@ -7,8 +7,9 @@ commonly-forgotten
 
 I forget, so I write.
 
-* [scipy.weave](Pages/Weave)
-* [command line](Pages/Commands)
-* [Python versus C](Pages/python-versus-c)
-* [Vim](Pages/Vim)
-* [Words](Pages/Words)
+* [scipy.weave](pages/weave)
+* [command line](pages/commands)
+* [Python versus C](pages/python-versus-c)
+* [Vim](pages/vim)
+* [Words](pages/words)
+* [git](pages/git)
