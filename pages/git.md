@@ -17,7 +17,7 @@ git add -p [filenane]
 Find differences
 ----------------
 
-![Diagram explaining the diffs between HEAD, Index and Working tree](diff diagram)
+![Diagram explaining the diffs between HEAD, Index and Working tree][diff diagram]
 
 ### HEAD -> Index (staging area):
 
