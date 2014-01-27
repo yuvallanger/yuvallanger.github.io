@@ -1,7 +1,7 @@
 ---
 title: IRC לסדנאים
+layout: default
 ---
-<rtl>
 IRC
 ===
 
@@ -52,4 +52,3 @@ Freenode - רשת קטנה יותר אשר מיועדת לפרויקטים מב�
 6. כדי להצטרף לערוץ django:
   `/join #django`
 7. לשאול שאלות
-</rtl>
