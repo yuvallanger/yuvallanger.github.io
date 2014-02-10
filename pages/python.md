@@ -2,14 +2,14 @@
 title: python
 ---
 
-* Python
-** Getting a dictionary of the attribute name and attribute value pairs
+# Python
+## Getting a dictionary of the attribute name and attribute value pairs
 
-#+BEGIN_SRC python
+```python
 class a:
         b = 'b'
         def __init__(self, c):
             self.c = c
         def who(self):
                 return(scipy.who(vars(self)))
-#+END_SRC
+```
