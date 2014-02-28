@@ -13,3 +13,4 @@ I forget, so I write.
 * [Vim](pages/vim)
 * [Words](pages/words)
 * [git](pages/git)
+* [Reading List](pages/ReadingList)
