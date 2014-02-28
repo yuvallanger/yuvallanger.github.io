@@ -5,10 +5,6 @@ layout: default
 {{ page.title }}
 =======================
 
-Identity
---------
-AKA Egbert9e9 on IRC
-
 Links
 -----
 
