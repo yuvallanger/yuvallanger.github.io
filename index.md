@@ -1,5 +1,5 @@
 ---
-title: Rubber Duck Developer
+title: Yuval Langer
 layout: default
 ---
 {{ page.title }}
@@ -8,8 +8,8 @@ layout: default
 Links
 -----
 
-* [dotfiles](https://github.com/rubberduckdev/dotfiles)
-* [commonly-forgotten](https://rubberduckdev.github.com/commonly-forgotten)
+* [dotfiles](https://github.com/yuvallanger/dotfiles)
+* [commonly-forgotten](https://yuvallanger.github.com/commonly-forgotten)
 
 Sources
 -------
