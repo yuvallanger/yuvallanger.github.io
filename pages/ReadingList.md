@@ -8,9 +8,9 @@ layout: default
 Git
 ---
 
-* [[sethrobertson's git best practices]]
-* [[mislav of uniqpath's git tips]]
-* [[pcottle's learnGitBranching puzzle game]]
+* [sethrobertson's git best practices][]
+* [mislav of uniqpath's git tips][]
+* [pcottle's learnGitBranching puzzle game][]
 
 
 [pcottle's learnGitBranching puzzle game]: http://pcottle.github.io/learnGitBranching/
