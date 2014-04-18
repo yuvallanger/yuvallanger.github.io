@@ -14,7 +14,7 @@ Jerks
 In case of jerks, use these:
 
 ```IRC
-/mode +q $~a +m
+/mode +mq $~a
 ```
 
 No Jerks
@@ -23,5 +23,5 @@ No Jerks
 In case of no jerks, use these:
 
 ```IRC
-/mode -q $~a -m
+/mode -mq $~a
 ```
