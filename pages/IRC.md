@@ -1,5 +1,5 @@
 ---
-title: IRC commands
+title: IRC Commands
 layout: default
 ---
 commonly-forgotten
@@ -15,4 +15,13 @@ In case of jerks, use these:
 
 ```IRC
 /mode +q $~a +m
+```
+
+No Jerks
+--------
+
+In case of no jerks, use these:
+
+```IRC
+/mode -q $~a -m
 ```
