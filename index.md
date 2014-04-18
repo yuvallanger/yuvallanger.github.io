@@ -14,3 +14,4 @@ I forget, so I write.
 * [Words](pages/words)
 * [git](pages/git)
 * [Reading List](pages/ReadingList)
+* [IRC](pages/IRC)
