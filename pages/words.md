@@ -7,3 +7,4 @@ layout: default
 
 * Rhetoric
 * Demagogue
+* /Apus apus/ - common swift - סיס (sis)
