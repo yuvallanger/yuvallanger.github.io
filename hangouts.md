@@ -5,11 +5,6 @@ layout: default
 {{ page.title }}
 ================
 
-* IRC has the backlog presented to you at any time. You can never miss anything said, unless you go offline.
-* Hangouts are unscripted and filled with speech disfluency and although IRC is too unscripted, there is time to express yourself more eloquently.
-
-Replace IRC with any other text based discussion system.
-
 * Speech recognition sucks.
 * Speech recognition sucks.
 * You can't make a transcript of the hangout cheaply.
@@ -22,6 +17,8 @@ Replace IRC with any other text based discussion system.
         * Gulping
         * Breathing
         * Rustling of clothes
+
+Replace IRC with any other text based discussion system.
 
 
 [speech disfluency]: https://en.wikipedia.org/wiki/Speech_disfluency
