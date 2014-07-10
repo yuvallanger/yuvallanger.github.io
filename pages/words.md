@@ -8,3 +8,5 @@ layout: default
 * Rhetoric
 * Demagogue
 * /Apus apus/ - common swift - סיס (sis)
+* קריית טבעון
+* Solidarity - סולידריות
