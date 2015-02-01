@@ -10,3 +10,4 @@ layout: default
 * /Apus apus/ - common swift - סיס (sis)
 * קריית טבעון
 * Solidarity - סולידריות
+* Corruption
