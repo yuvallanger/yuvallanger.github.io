@@ -2,3 +2,4 @@
 
 * Rhetoric
 * Demagogue
+* Corruption
