@@ -11,3 +11,4 @@ layout: default
 * קריית טבעון
 * Solidarity - סולידריות
 * Corruption
+* Ambivalence
