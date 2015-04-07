@@ -9,7 +9,7 @@ Links
 -----
 
 * [dotfiles](https://github.com/yuvallanger/dotfiles)
-* [commonly-forgotten](https://yuvallanger.github.com/commonly-forgotten)
+* [commonly-forgotten](commonly-forgotten/)
 
 Sources
 -------
