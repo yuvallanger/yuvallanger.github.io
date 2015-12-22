@@ -10,7 +10,7 @@ Links
 
 * [dotfiles](https://github.com/yuvallanger/dotfiles)
 * [commonly-forgotten](commonly-forgotten/)
-* <http://kaka.farm/ <s><http://無.moe/> / <http://xn--2sx.moe></s>
+* <http://kaka.farm/> <del><http://無.moe/> / <http://xn--2sx.moe></del>
 
 Sources
 -------
