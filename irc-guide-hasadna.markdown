@@ -2,6 +2,7 @@
 title: IRC לסדנאים
 layout: default
 ---
+
 # {{ page.title }}
 
 
