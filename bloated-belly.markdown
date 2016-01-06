@@ -1,3 +1,11 @@
+---
+title: Bloated Belly
+layout: default
+---
+
+# {{ page.title }}
+
+
 A sub-Saharan Tanzanian boy is drinking coke.
 Bloated belly, empty eyes and matchstick limbs to match.
 
